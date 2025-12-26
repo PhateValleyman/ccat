@@ -1,4 +1,4 @@
-module github.com/jingweno/ccat
+module github.com/PhateValleyman/ccat
 
 go 1.20
 
