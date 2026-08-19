@@ -1,0 +1,7 @@
+name = "monokai"
+keyword = "#f92672"
+string = "#e6db74"
+number = "#ae81ff"
+comment = "#75715e"
+function = "#a6e22e"
+type = "#66d9ef"

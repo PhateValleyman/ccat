@@ -1,0 +1,7 @@
+name = "default"
+keyword = "blue"
+string = "green"
+number = "magenta"
+comment = "cyan"
+function = "yellow"
+type = "red"

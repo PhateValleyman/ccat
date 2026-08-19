@@ -1,0 +1,6 @@
+theme = "dracula"
+color = true
+line_numbers = false
+pager = true
+max_size = 10485760
+max_line_length = 4096

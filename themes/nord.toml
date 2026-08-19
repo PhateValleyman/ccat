@@ -1,0 +1,7 @@
+name = "nord"
+keyword = "#81a1c1"
+string = "#a3be8c"
+number = "#b48ead"
+comment = "#4c566a"
+function = "#88c0d0"
+type = "#5e81ac"

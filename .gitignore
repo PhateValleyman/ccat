@@ -1,0 +1,6 @@
+ccat
+build/
+~
+.gemini/
+*.exe
+vendor/
